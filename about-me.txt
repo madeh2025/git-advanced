@@ -1,1 +1,1 @@
-hello my name is Madeh and i'm learning DevOps. I love automation.
+This is a confliting update from the feature-a branch
